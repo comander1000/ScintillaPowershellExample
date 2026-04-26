@@ -1,1 +1,1 @@
-![App Screenshot](screenshots/app.png)
+![App Screenshot](apprun.png)
